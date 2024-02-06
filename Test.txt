@@ -4,9 +4,10 @@ Version 3
 version 4
 version 5
 version 6
-<<<<<<< HEAD
+
 version final
-=======
+
 creation d'une branche develop
 2eme commit de branche develop
->>>>>>> develop
+
+Pour les bonnes pratiqu, on va integrer la notion de revue de code par github
